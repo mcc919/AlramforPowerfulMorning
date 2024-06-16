@@ -1,0 +1,51 @@
+('C:\\Users\\kor\\AppData\\Roaming\\Microsoft\\Windows\\Start '
+ 'Menu\\Programs\\Startup\\build\\AlramforPowerfulMorning\\AlramforPowerfulMorning.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\kor\\AppData\\Roaming\\Microsoft\\Windows\\Start '
+   'Menu\\Programs\\Startup\\build\\AlramforPowerfulMorning\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\kor\\AppData\\Roaming\\Microsoft\\Windows\\Start '
+   'Menu\\Programs\\Startup\\build\\AlramforPowerfulMorning\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\kor\\AppData\\Roaming\\Microsoft\\Windows\\Start '
+   'Menu\\Programs\\Startup\\build\\AlramforPowerfulMorning\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\kor\\AppData\\Roaming\\Microsoft\\Windows\\Start '
+   'Menu\\Programs\\Startup\\build\\AlramforPowerfulMorning\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\kor\\AppData\\Roaming\\Microsoft\\Windows\\Start '
+   'Menu\\Programs\\Startup\\build\\AlramforPowerfulMorning\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\kor\\AppData\\Roaming\\Microsoft\\Windows\\Start '
+   'Menu\\Programs\\Startup\\build\\AlramforPowerfulMorning\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\kor\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('AlramforPowerfulMorning',
+   'C:\\Users\\kor\\AppData\\Roaming\\Microsoft\\Windows\\Start '
+   'Menu\\Programs\\Startup\\AlramforPowerfulMorning.py',
+   'PYSOURCE')],
+ 'python38.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
